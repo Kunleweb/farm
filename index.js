@@ -46,6 +46,8 @@ const {query, pathname } = url.parse(req.url, true);
   }
 });
 
-server.listen(3000, '127.0.0.1', () => {
-  console.log('Listening to requests on ports 3000');
+const PORT = process.env.PORT || 3000;
+
+server.listen(PORT, () => {
+  console.log(`Listening to requests on port ${PORT}`);
 });
