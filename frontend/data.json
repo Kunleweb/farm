@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "productName": "Ofada Rice",
+    "image": "🍚",
+    "from": "Ogun State",
+    "nutrients": "Fiber, Iron, B Vitamins",
+    "quantity": "1 derica",
+    "price": "₦1200",
+    "organic": true,
+    "description": "Ofada rice is a locally grown Nigerian rice known for its earthy aroma and rich flavor. Popularly served with spicy Ayamase sauce, it is a nutritious staple high in fiber and essential minerals. Often reserved for festive occasions and traditional ceremonies."
+  },
+  {
+    "id": 1,
+    "productName": "Suya Spice Mix",
+    "image": "🌶️",
+    "from": "Kaduna",
+    "nutrients": "Capsaicin, Antioxidants",
+    "quantity": "100g sachet",
+    "price": "₦500",
+    "organic": false,
+    "description": "Suya spice is a bold and flavorful seasoning blend made from ground peanuts, chili powder, ginger, and other spices. Commonly used for marinating meat before grilling, it’s a key component in northern Nigerian street food culture."
+  },
+  {
+    "id": 2,
+    "productName": "Ugu Leaves (Fluted Pumpkin)",
+    "image": "🥬",
+    "from": "Anambra State",
+    "nutrients": "Iron, Vitamin A, Calcium",
+    "quantity": "1 bunch",
+    "price": "₦400",
+    "organic": true,
+    "description": "Ugu, or fluted pumpkin leaves, are rich in iron and commonly used in soups like Egusi and Ogbono. A staple in southeastern Nigeria, these leaves support blood health and are valued in both traditional medicine and cuisine."
+  },
+  {
+    "id": 3,
+    "productName": "Garden Eggs",
+    "image": "🍆",
+    "from": "Enugu",
+    "nutrients": "Fiber, Vitamin C, Potassium",
+    "quantity": "6 pieces",
+    "price": "₦300",
+    "organic": true,
+    "description": "Garden eggs are small, bitter eggplants enjoyed raw or with groundnut paste in Eastern Nigeria. Low in calories and rich in dietary fiber, they aid digestion and are a cultural delicacy served at special events."
+  },
+  {
+    "id": 4,
+    "productName": "Palm Wine (Tapping Fresh)",
+    "image": "🥂",
+    "from": "Lagos Island",
+    "nutrients": "Natural Sugars, Probiotics",
+    "quantity": "1 litre bottle",
+    "price": "₦800",
+    "organic": false,
+    "description": "Palm wine is a traditional fermented beverage tapped from palm trees. Known for its slightly sweet and tangy flavor, it is enjoyed at social gatherings and is believed to aid digestion due to its probiotic content."
+  }
+]
